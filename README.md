@@ -1,3 +1,6 @@
+
+<img width="604" alt="Screenshot 2023-07-11 at 9 52 12 AM" src="https://github.com/vidhimittal13/bothosseini/assets/122928225/9bf522da-d433-4c88-8e9e-e5d07b4ec2a3">
+
 # @BotHosseini
 Twitter bot that tweets quotes from Khaled Hosseini's novels to remind us of the power of storytelling and the resilience of human spirit. Tweeting every 2 hours.
 
